@@ -1,1 +1,1 @@
-# Data-Science
+Kurs bitirme projem
